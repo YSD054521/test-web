@@ -18,7 +18,7 @@
   </style>
 </head>
 <body>
-  <h1>Hello world by YSD054521</h1>
+  <h1>Hello world by YSD054521 at 2017/07/27</h1>
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
 </body>
 </html>
